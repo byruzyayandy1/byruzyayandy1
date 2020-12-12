@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Mohammed Bayero Yayandi, a self-taught Python programmer, Tech community builder, technical writer, AI enthusiast, public speaker, open-source enthusiast, and a people’s person. I grew up in Kaduna State Northern part of, Nigeria. I'm a student of Mineral and Petroleum Resources Engineering. I love supporting to come into tech (most espcially ladies). Asides from being actively involved in tech, I am a social entrepreneur and a volunteer for Non-For Profit Organization. I love meeting and networking with new friends.
+I’m Mohammed Bayero Yayandi, a self-taught Python programmer, Tech community builder, Technical writer, Machine Learning enthusiast, Public speaker, Open-source enthusiast, and Tech advocate. I grew up in Kaduna State Northern part of, Nigeria. I'm  currently a student of Mineral and Petroleum Resources Engineering. I love supporting to come into tech (most espcially ladies). Asides from being actively involved in tech, I am a social entrepreneur and a volunteer for Non-For Profit Organization. I love meeting and networking with new friends.
 
 
 - 🔭 I’m currently working on [WasteCoin](http://ng.wastecoin.com)
