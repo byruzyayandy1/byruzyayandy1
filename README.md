@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Mohammed Bayero Yayandi, a self-taught Data Analyst and Python programmer. I love meeting and networking with new friends.
+I’m Mohammed Bayero Yayandi, a Data Analyst and Python programmer. I love meeting and networking with new friends.
 
 
 - 🔭 I’m currently working on YandyTech 
