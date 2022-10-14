@@ -6,7 +6,7 @@ I’m Mohammed Bayero Yayandi, a Data Analyst and Python programmer. I love meet
 - 🔭 I’m currently working on YandyTech 
 - 🌱 I’m currently learning Data Analytics & Blockchain
 - 👯 I’m looking to collaborate on bring more newbies to work on Data Analytics projects.
-- 💬 Ask me about Python & Data Analytics
+- 💬 Ask me about R, Python & Data Analytics
 - 📫 How to reach me: [@hackyayandy](https://twitter.com/hackyayandy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't watch movies, I only vibe to music
